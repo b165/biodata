@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Biodata!</string>
+    <string name="button_label_toast">My NIM</string>
+    <string name="button_label_count">My Study</string>
+    <string name="count_initial_value">This is My Name Bobby Andi P</string>
+    <string name="toast_message">1147050032</string>
+    <string name="toast_message1">UIN Sunan Gunung Djati</string>
+</resources>
